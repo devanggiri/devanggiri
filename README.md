@@ -25,7 +25,10 @@ Embarking on an exhilarating journey through Artificial Intelligence and Machine
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/devanggiri"><img src="https://github-readme-stats.vercel.app/api?username=devanggiri&show_icons=true&hide=stars,prs,&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="devanggiri's GitHub stats" /></a><a
+                    </a></p>
+
+### Badges
+<b>
+My GitHub Stats</b><ahref="http://www.github.com/devanggiri"><img src="https://github-readme-stats.vercel.app/api?username=devanggiri&show_icons=true&hide=stars,prs,&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="devanggiri's GitHub stats" /></a><a
                       href="http://www.github.com/devanggiri"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=devanggiri&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/devanggiri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanggiri&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
