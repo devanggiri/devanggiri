@@ -1,4 +1,4 @@
-Hi 👋 My name is Devang Giri Gosami
+Hi 👋 My name is Devang Giri Goswami
 ===================================
 
 Data Analyst| Data science | Machine Learning
