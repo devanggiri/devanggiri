@@ -1,7 +1,7 @@
 Hi 👋 My name is Devang Giri Goswami
 ===================================
 
-Data Analyst | Data Science | Machine Learning
+Data Analyst | Data Science | Data Visualization | Machine Learning
 ---------------------------------------------
 
 Embarking on an exhilarating journey through Artificial Intelligence and Machine Learning, I'm mesmerized by the endless possibilities they offer. I'm enchanted by the transformative power of these technologies, driven by an insatiable curiosity. From unraveling data mysteries to shaping our future, I'm on a quest to understand AI's profound impact. Join me in this captivating adventure, where every line of code sparks innovation and enlightenment. Let's connect and chart a course toward a future shaped by the wonders of artificial intelligence.
