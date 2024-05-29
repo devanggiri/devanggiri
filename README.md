@@ -5,7 +5,7 @@ Data Analyst | Data Science | Machine Learning
 ---------------------------------------------
 
 Embarking on a journey through AI and Machine Learning, I'm captivated by their transformative power. Driven by curiosity, I unravel data mysteries and explore AI's profound impact. Join me as we code innovations and shape the future together. 
-#GrowTogether #LetUsCode
+#GrowTogether #LetUsCode #Github
 
 
 
